@@ -1,0 +1,6 @@
+Đây là trang đăng nhập
+
+Nhập username vào đây:
+Nhập password vào đây:
+
+Nhấn nút OK ở đây nè!!!
