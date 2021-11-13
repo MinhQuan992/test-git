@@ -2,5 +2,7 @@
 
 Nhập username vào đây:
 Nhập password vào đây:
+Nhập capcha ở đây:
 
 Nhấn nút OK ở đây nè!!!
+Hoặc quên mật khẩu thì nhấn ở đây nè!!!
