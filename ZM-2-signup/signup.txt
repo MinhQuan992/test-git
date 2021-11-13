@@ -1,0 +1,7 @@
+Đây là trang đăng ký.
+
+Nhập họ tên:
+Nhập username:
+Nhập password:
+
+Nhấn ĐĂNG KÝ!!!
